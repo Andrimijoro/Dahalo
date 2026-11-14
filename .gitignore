@@ -1,5 +1,5 @@
 # RStudio project files
-*.Rproj
+# *.Rproj
 .Rproj.user/
 
 # R environment and history
@@ -7,6 +7,9 @@
 .RData
 .Ruserdata
 .Renviron
+
+# R data
+.dta
 
 # macOS files
 .DS_Store
