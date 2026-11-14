@@ -12,3 +12,5 @@ Rehefa hiasa amin'ilay izy elah de avy dia ilay R Project "dahalo-ML.Rproj" soka
 
 Ilay données epm be dia be .dta ireny atao ao anatin'ilay file hoe "epm_data". Tsy nampiakariko tato ilay izy satria mavesatra loatra sady données somary sensible de sao miparitaka. Rehefa manao push ato elah de ignorer-n'ny github ho azy izay fichier .dta de tsy ampiakariny ato ilay epm ireo. 
 
+Ny données momba ilay conflict io .rds io. Nampiakariko tato ihany satria maivana sady open source. 
+
