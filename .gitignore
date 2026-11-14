@@ -8,6 +8,9 @@
 .Ruserdata
 .Renviron
 
+# R data
+.dta
+
 # macOS files
 .DS_Store
 
