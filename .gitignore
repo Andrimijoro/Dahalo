@@ -8,7 +8,7 @@
 .Renviron
 
 # R data
-.dta
+*.dta
 
 # macOS files
 .DS_Store
