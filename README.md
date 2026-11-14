@@ -1,4 +1,4 @@
-# Ito ny momba ilay fichier letsy
+# Ito ny momba ilay projet letsy
 
 ## 1) Manana fichier local elah
 
